@@ -40,7 +40,7 @@ But it works well for CPU too.**
 # Contributing
 Any kind of enhancement or contribution is welcomed.
 
-![alt text](images/Group8_ClusteringAssignment_page-0001.jpg)
+
 ![alt text](images/Group8_ClusteringAssignment_page-0002.jpg)
 ![alt text](images/Group8_ClusteringAssignment_page-0003.jpg)
 ![alt text](images/Group8_ClusteringAssignment_page-0004.jpg)
